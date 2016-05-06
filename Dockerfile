@@ -8,9 +8,4 @@ RUN cpan Mojolicious
 # Test
 
 =======
-# another comment
-# new comment
-#rela
-#test
-#testing again
-#>>>>>>> Stashed changes
+
